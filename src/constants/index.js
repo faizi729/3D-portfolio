@@ -151,7 +151,7 @@ import {
     "Currently learning the MERN stack to advance full-stack development capabilities.",
     "Leveraging skills to create intelligent, data-driven web applications integrating AI/ML.",
     "Actively contributing to personal projects, enhancing technical expertise and problem-solving abilities."
-  ],,
+  ],
       ],
     },
     {
@@ -165,7 +165,7 @@ import {
     "Implementing machine learning algorithms for image processing and classification using tools like OpenCV and Python.",
     "Integrating AI/ML models into a user-friendly interface for dentists and healthcare professionals.",
     "Focusing on building an end-to-end solution from data preprocessing to deployment."
-  ],,
+  ],
       ],
     },
   ];
