@@ -166,7 +166,7 @@ import {
     "Integrating AI/ML models into a user-friendly interface for dentists and healthcare professionals.",
     "Focusing on building an end-to-end solution from data preprocessing to deployment."
   ],
-      ],
+      
     },
   ];
   
