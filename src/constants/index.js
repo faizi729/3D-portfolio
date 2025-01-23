@@ -152,7 +152,7 @@ import {
     "Leveraging skills to create intelligent, data-driven web applications integrating AI/ML.",
     "Actively contributing to personal projects, enhancing technical expertise and problem-solving abilities."
   ],
-      ],
+      
     },
     {
       title: "Oral Health Detection System",
