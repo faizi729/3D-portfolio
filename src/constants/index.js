@@ -16,7 +16,7 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
+    
     tesla,
     shopify,
     carrent,
@@ -118,7 +118,7 @@ import {
     {
       title: "12th Grade - CBSE Board",
       company_name: "sri sankara Vidhayalay",
-      icon: starbucks,
+      icon: tesla,
       iconBg: "#000000",
       date: "Completed in 2022",
       points: [
